@@ -3,6 +3,4 @@
 <p align="left">I am a Front-End Developer based in Turkey. </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left">  
-(https://skillicons.dev/icons?i=js,html,css)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
