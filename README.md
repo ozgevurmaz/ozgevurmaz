@@ -3,3 +3,6 @@
 <p align="left">I am a Front-End Developer based in Turkey. </p>
 
 <h3 align="left">Skills:</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,,react,vite,nextjs,,tailwind,sass,bootstrap" />
+  </a>
