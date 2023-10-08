@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Me! Elif Özge </h1>
-<p align="left">I am a Front-End Developer with knowledge of Back-End (node.js, express.js, mongoDB) </p>
+<p align="left">I am a Front-End Developer </p>
 
 <h3 align="left">Skills:</h3>
 <a href="https://skillicons.dev">
