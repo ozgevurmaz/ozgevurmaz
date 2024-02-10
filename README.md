@@ -9,15 +9,15 @@
 
 ## Experience
 
-- **Turkcell - Geleceği Yazanlar (The Ones Who Write The Future)**
+- **Turkcell**
   *Frontend Developer*
   (2019 – Oct 2023)
 
-- **Frontend Engineering Education Code Academy**
+- **Frontend Engineering in Codeacademy**
   *Full-Stack Engineering*
   (Oct 2023 – Feb 2024)
   
-- **Full-Stack Engineering Education Code Academy**
+- **Full-Stack Engineering in Codeacademy**
   *Full-Stack Engineering*
   (Feb 2024 – Present)
 
