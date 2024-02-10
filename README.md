@@ -3,7 +3,7 @@
 
 ## Education
 
-- **Manisa Celal Bayar University**
+ **Manisa Celal Bayar University**
   *Bachelor's Degree in Electrical & Electronics Engineering*
   (2015 – 2019)
 
