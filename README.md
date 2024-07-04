@@ -14,12 +14,12 @@
   (2019 – Oct 2023)
 
 - **Frontend Engineering in Codeacademy**
-  *Full-Stack Engineering*
+  *Frontend Engineering*
   (Oct 2023 – Feb 2024)
   
 - **Full-Stack Engineering in Codeacademy**
   *Full-Stack Engineering*
-  (Feb 2024 – Present)
+  (Feb 2024 – June 2024)
 
 <h3 align="left">Skills:</h3>
 <a href="https://skillicons.dev">
