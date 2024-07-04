@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Me! Elif Özge </h1>
-<p align="left">I'm a Frontend Engineer with a background in Electrical Electronics Engineering.</p>
+<p align="left">I'm a Full-Stack Engineer with a background in Electrical Electronics Engineering.</p>
 
 ## Education
 
@@ -23,5 +23,5 @@
 
 <h3 align="left">Skills:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind,sass,git,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,,js,ts,,react,redux,vite,nextjs,,nodejs,mongodb,git" />
   </a>
