@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Elif Özge (Öce)</h1>
+<h1 align="center">Hi there 👋, I'm Elif Özge</h1>
 
 <p align="center">
     🎯 Frontend Engineer | Passionate about building modern and interactive web experiences
